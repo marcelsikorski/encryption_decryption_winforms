@@ -1,0 +1,11 @@
+C:\Users\marce\source\repos\Laboratoria1WinForms\bin\Debug\Laboratoria1WinForms.exe.config
+C:\Users\marce\source\repos\Laboratoria1WinForms\bin\Debug\Laboratoria1WinForms.exe
+C:\Users\marce\source\repos\Laboratoria1WinForms\bin\Debug\Laboratoria1WinForms.pdb
+C:\Users\marce\source\repos\Laboratoria1WinForms\obj\Debug\Laboratoria1WinForms.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\Laboratoria1WinForms\obj\Debug\Laboratoria1WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\marce\source\repos\Laboratoria1WinForms\obj\Debug\Laboratoria1WinForms.Form1.resources
+C:\Users\marce\source\repos\Laboratoria1WinForms\obj\Debug\Laboratoria1WinForms.Properties.Resources.resources
+C:\Users\marce\source\repos\Laboratoria1WinForms\obj\Debug\Laboratoria1WinForms.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\Laboratoria1WinForms\obj\Debug\Laboratoria1WinForms.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\Laboratoria1WinForms\obj\Debug\Laboratoria1WinForms.exe
+C:\Users\marce\source\repos\Laboratoria1WinForms\obj\Debug\Laboratoria1WinForms.pdb
